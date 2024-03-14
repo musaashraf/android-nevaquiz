@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833681324131",
+    "firebase_url": "https://neva-quiz.firebaseio.com",
+    "project_id": "neva-quiz",
+    "storage_bucket": "neva-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833681324131:android:6683933180fd2dd3",
+        "android_client_info": {
+          "package_name": "com.nevadiatechnology.nevaquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833681324131-4dtnn4arnujt16m37cdq3atnhho3qmbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nevadiatechnology.nevaquiz",
+            "certificate_hash": "b38f57b70105bd21a9d98570cb7ccc61bcb7d381"
+          }
+        },
+        {
+          "client_id": "833681324131-fhom0tglci4v3nivu9ftgk27833scd61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRhBI80VqxgmTdGByuywY1ZgcAWDeoHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833681324131-fhom0tglci4v3nivu9ftgk27833scd61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
